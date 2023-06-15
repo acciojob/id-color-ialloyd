@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 #yellow{
 
-	border-left-width:1px solid;
-	border-right-width:1px solid;
-	border-top-width:1px solid;
-	border-bottom-width:1px solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
 	background-color:yellow;
 	border-top-color:green;
 	border-bottom-color:green;
@@ -20,10 +20,10 @@
 
 #red{
 
-	border-left-width:1px solid;
-	border-right-width:1px solid;
-	border-top-width:1px solid;
-	border-bottom-width:1px solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
 	background-color:red;
 	border-top-color:black;
 	border-bottom-color:black;
@@ -38,10 +38,10 @@
 
 #green{
 
-	border-left-width:1px solid;
-	border-right-width:1px solid;
-	border-top-width:1px solid;
-	border-bottom-width:1px solid;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
 	background-color:green;
 	border-top-color:yellow;
 	border-bottom-color:yellow;
